@@ -1,0 +1,10 @@
+{
+  "title": "Six-point A450 standard curve, 45 C incubation",
+  "plates": 3,
+  "dye_volumes_ul": [0, 5, 10, 20, 30, 45],
+  "well_volume_ul": 60,
+  "dye_stock_um": 200,
+  "temperature_c": 45,
+  "shake_rpm": 1200,
+  "incubation_min": 10
+}
