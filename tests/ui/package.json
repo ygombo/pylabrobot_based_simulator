@@ -1,0 +1,8 @@
+{
+  "name": "labsim-ui-tests",
+  "private": true,
+  "type": "module",
+  "description": "Headless-browser smoke test for the labsim workspace (dev only; not needed to run the app).",
+  "scripts": { "test": "node smoke.mjs" },
+  "devDependencies": { "puppeteer-core": "^24.0.0" }
+}
